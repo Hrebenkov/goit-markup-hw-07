@@ -1,20 +1,19 @@
 /* /Стилізація logo */
 .logo {
-    display: block;
+  display: block;
 
-    font-family: var(--brand-logo-font), sans-serif;
-    font-weight: 700;
-    font-size: 26px;
-    line-height: 1.2;
-    color: var(--brand-main-color);
+  font-family: var(--brand-logo-font), sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.2;
+  color: var(--brand-main-color);
 }
 
 .logo__dark {
-    color: var(--logo-positive-color);
+  color: var(--logo-positive-color);
 }
 
 .logo__light {
-    color: var(--logo-negative-color);
+  color: var(--logo-negative-color);
 }
 /* /Стилізація logo */
-

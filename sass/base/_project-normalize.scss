@@ -1,46 +1,46 @@
 /* ========== СКИДАННЯ СТИЛІВ ========== */
 body {
-    background-color: var(--simple-white);
-    font-family: var(--brand-font), sans-serif;
-    letter-spacing: var(--brand-letter-spacing);
-    color: var(--brand-grey);
+  background-color: var(--simple-white);
+  font-family: var(--brand-font), sans-serif;
+  letter-spacing: var(--brand-letter-spacing);
+  color: var(--brand-grey);
 }
 
 h1,
 h2,
 h3,
 p {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 img {
-    display: block;
-    max-width: 100%;
-    height: auto;
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
 
 /* Знімаю стилізацію з ul */
 ul,
 ol {
-    margin: 0;
-    padding: 0;
-    list-style: none;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 /* Знімаю стилізацію з <a> */
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 /* Заборона зміну розміру в textarea */
 textarea {
-    resize: none;
+  resize: none;
 }
 
 button {
-    cursor: pointer;
-    box-sizing: border-box;
+  cursor: pointer;
+  box-sizing: border-box;
 }
 
 /* ========== /СКИДАННЯ СТИЛІВ ========== */
